@@ -4,7 +4,7 @@ Created on Thu Nov 19 21:21:24 2015
 
 Automatically search and download similar images
 
-@author: Dingquan Lee
+@author: Dingquan Li
 """
 
 from selenium import webdriver
