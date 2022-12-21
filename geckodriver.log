@@ -1,0 +1,423 @@
+1606236147382	geckodriver	INFO	Listening on 127.0.0.1:50555
+1606236147415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileuTfFcV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236150777	Marionette	INFO	Listening on port 50564
+1606236150831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236222983	geckodriver	INFO	Listening on 127.0.0.1:50923
+1606236222999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilewaXb3u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236225870	Marionette	INFO	Listening on port 50932
+1606236225923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236239759	Marionette	INFO	Stopped listening on port 50564
+1606236358675	geckodriver	INFO	Listening on 127.0.0.1:51372
+1606236358712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileZYWZUQ"
+1606236360647	Marionette	INFO	Stopped listening on port 50932
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236362239	Marionette	INFO	Listening on port 51381
+1606236362353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236396594	Marionette	INFO	Stopped listening on port 51381
+1606236598413	geckodriver	INFO	Listening on 127.0.0.1:52076
+1606236598429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilecrODvG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236601589	Marionette	INFO	Listening on port 52085
+1606236601645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236629538	Marionette	INFO	Stopped listening on port 52085
+1606236699216	geckodriver	INFO	Listening on 127.0.0.1:52457
+1606236699233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofile74r44J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236702416	Marionette	INFO	Listening on port 52466
+1606236702454	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1207:3
+
+1606236708885	Marionette	INFO	Stopped listening on port 52466
+1606236744745	geckodriver	INFO	Listening on 127.0.0.1:52645
+1606236744763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilefBLcL3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236747879	Marionette	INFO	Listening on port 52654
+1606236747957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236759151	geckodriver	INFO	Listening on 127.0.0.1:52768
+1606236759168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileeZ7uo8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236762489	Marionette	INFO	Listening on port 52778
+1606236762548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236773457	geckodriver	INFO	Listening on 127.0.0.1:52908
+1606236773476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofiledjr7Gj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236777954	Marionette	INFO	Listening on port 52917
+1606236778088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606236786750	geckodriver	INFO	Listening on 127.0.0.1:53076
+1606236786810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileepx8De"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236795295	Marionette	INFO	Listening on port 53085
+1606236795632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=7023&page=journalapp&view=detail, line 1328: TypeError: data is null
+1606236990051	Marionette	INFO	Stopped listening on port 52654
+1606236993591	Marionette	INFO	Stopped listening on port 52778
+1606236998751	Marionette	INFO	Stopped listening on port 53085
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=4104&page=journalapp&view=detail, line 1326: TypeError: data is null
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=4961&page=journalapp&view=detail, line 1327: TypeError: data is null
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=7867&page=journalapp&view=detail, line 1328: TypeError: data is null
+1606237806022	Marionette	INFO	Stopped listening on port 52917
+1606237899327	geckodriver	INFO	Listening on 127.0.0.1:56556
+1606237899344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileIWKPxr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606237902215	Marionette	INFO	Listening on port 56565
+1606237902236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606238087171	Marionette	INFO	Stopped listening on port 56565
+1606238112878	geckodriver	INFO	Listening on 127.0.0.1:57267
+1606238112892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilenRfbVh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238116891	Marionette	INFO	Listening on port 57276
+1606238116960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606238126019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606238893641	Marionette	INFO	Stopped listening on port 57276
+1606238988658	geckodriver	INFO	Listening on 127.0.0.1:60344
+1606238988672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilelEsBdP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238992504	Marionette	INFO	Listening on port 60353
+1606238992604	Marionette	WARN	TLS certificate errors will be ignored for this session
+Opening item with bundle ID com.apple.systempreferences
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=2369&page=journalapp&view=detail, line 1328: TypeError: data is null
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=9677&page=journalapp&view=detail, line 1328: TypeError: data is null
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=10608&page=journalapp&view=detail, line 1336: TypeError: data is null
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=7264&page=journalapp&view=detail, line 1326: TypeError: data is null
+1606240830384	geckodriver	INFO	Listening on 127.0.0.1:50327
+1606240830404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofiletsZOt5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240834330	Marionette	INFO	Listening on port 50336
+1606240834450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606240836641	Marionette	INFO	Stopped listening on port 60353
+1606240870104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://aip.scitation.org/wro/jjsn~product.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=1962&page=journalapp&view=detail, line 1334: TypeError: data is null
+1606242772101	geckodriver	INFO	Listening on 127.0.0.1:57095
+1606242772169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileS2QE0f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606242775858	Marionette	INFO	Listening on port 57104
+1606242775881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606242920068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606242921586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606242922973	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606242924342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606242925709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606242927323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606242928881	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606243051183	Marionette	INFO	Stopped listening on port 50336
+1606243262160	geckodriver	INFO	Listening on 127.0.0.1:59098
+1606243262223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileabgrkz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606243267063	Marionette	INFO	Listening on port 59107
+1606243267191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606243311306	Marionette	INFO	Stopped listening on port 59107
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=1917&page=journalapp&view=detail, line 1332: TypeError: data is null
+1606243341300	geckodriver	INFO	Listening on 127.0.0.1:59487
+1606243341319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilegQm1wI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606243345798	Marionette	INFO	Listening on port 59496
+1606243345930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=2453&page=journalapp&view=detail, line 1328: TypeError: data is null
+1606243381191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=2572&page=journalapp&view=detail, line 1328: TypeError: data is null
+1606243752923	geckodriver	INFO	Listening on 127.0.0.1:61146
+1606243752943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileIZMTUk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606243757311	Marionette	INFO	Listening on port 61155
+1606243757398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606243789280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606243808698	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=8618&page=journalapp&view=detail, line 1326: TypeError: data is null
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=9442&page=journalapp&view=detail, line 1334: TypeError: data is null
+1606243896018	geckodriver	INFO	Listening on 127.0.0.1:61856
+1606243896046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileVFIymf"
+1606243899149	Marionette	INFO	Stopped listening on port 61155
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606243901300	Marionette	INFO	Listening on port 61865
+1606243901400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606243902458	Marionette	INFO	Stopped listening on port 59496
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606243904565	Marionette	INFO	Stopped listening on port 57104
+1606243931085	Marionette	INFO	Stopped listening on port 61865
+1606244217777	geckodriver	INFO	Listening on 127.0.0.1:63040
+1606244217804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileA6c4ug"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606244221079	Marionette	INFO	Listening on port 63049
+1606244221115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606244232816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606244572131	geckodriver	INFO	Listening on 127.0.0.1:64950
+1606244572157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofilelWdkAh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606244576178	Marionette	INFO	Listening on port 64959
+1606244576291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606244586914	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606244610942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606245272036	Marionette	INFO	Stopped listening on port 64959
+1606245278661	geckodriver	INFO	Listening on 127.0.0.1:53006
+1606245278679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileED0XUI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245282167	Marionette	INFO	Listening on port 53015
+1606245282209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606246698104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:25682
+ajax@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:21570
+v.loadpublishtypecontent@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:4034
+v.BindYearClick@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:3781
+onclick@https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=SXWX:1:15
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:7712
+trigger/<@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15517
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:2975
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:835
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15493
+v.getJournalYearList/<@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:823
+j@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:27309
+fireWith@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:28122
+x@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:22111
+b@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:26030
+1606247363479	Marionette	INFO	Stopped listening on port 53015
+1606247372504	geckodriver	INFO	Listening on 127.0.0.1:62868
+1606247372522	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileT8iIU7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606247375718	Marionette	INFO	Listening on port 62877
+1606247375824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606247440723	geckodriver	INFO	Listening on 127.0.0.1:63333
+1606247440742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileVU8u6R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606247444215	Marionette	INFO	Listening on port 63342
+1606247444250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606247929129	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:25682
+ajax@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:21570
+v.loadpublishtypecontent@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:4034
+v.BindYearClick@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:3781
+onclick@https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=SXZZ:1:15
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:7712
+trigger/<@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15517
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:2975
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:835
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15493
+v.getJournalYearList/<@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:823
+j@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:27309
+fireWith@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:28122
+x@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:22111
+b@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:26030
+1606247975768	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:25682
+ajax@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:21570
+v.loadpublishtypecontent@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:4034
+v.BindYearClick@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:3781
+onclick@https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XUSJ:1:15
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:7712
+trigger/<@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15517
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:2975
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:835
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15493
+v.getJournalYearList/<@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:823
+j@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:27309
+fireWith@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:28122
+x@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:22111
+b@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:26030
+JavaScript error: https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js, line 2: SecurityError: Permission denied to access property "nodeName" on cross-origin object
+1606250182308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606250188705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606250193668	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606250198784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:25682
+ajax@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:21570
+v.loadpublishtypecontent@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:4034
+v.BindYearClick@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:3781
+onclick@https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=GXYZ:1:15
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:7712
+trigger/<@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15517
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:2975
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:835
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15493
+v.getJournalYearList/<@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:823
+j@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:27309
+fireWith@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:28122
+x@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:22111
+b@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:26030
+1606250203842	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js, line 2: SecurityError: Permission denied to access property "nodeName" on cross-origin object
+JavaScript error: http://www.letpub.com.cn/index.php?journalid=7240&page=journalapp&view=detail, line 1326: TypeError: data is null
+1606250913738	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606250925180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606250930175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606250977193	Marionette	INFO	Stopped listening on port 63342
+1606259861479	geckodriver	INFO	Listening on 127.0.0.1:52579
+1606259861512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileU0zhbS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606259864799	Marionette	INFO	Listening on port 52588
+1606259864913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606259866260	Marionette	INFO	Stopped listening on port 63049
+1606259877544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606259905816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606259912395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:25682
+ajax@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:21570
+v.loadpublishtypecontent@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:4034
+v.BindYearClick@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:3781
+onclick@https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XUSJ:1:15
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:7712
+trigger/<@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15517
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:2975
+each@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:835
+trigger@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:4:15493
+v.getJournalYearList/<@https://piccache.cnki.net/kdn/knavi/scripts/Detail/min/JournalDetail.min.js:1:823
+j@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:27309
+fireWith@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:2:28122
+x@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:22111
+b@https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js:5:26030
+JavaScript error: https://login.cnki.net/TopLogin/Scripts/jquery-1.11.3.min.js, line 2: SecurityError: Permission denied to access property "nodeName" on cross-origin object
+1606259925401	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606267793286	Marionette	INFO	Stopped listening on port 52588
+1606267795993	geckodriver	INFO	Listening on 127.0.0.1:52666
+1606267796012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4d/pchfrk0j45d87lvxycfzc8300000gn/T/rust_mozprofileCGLsH9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606267799006	Marionette	INFO	Listening on port 52675
+1606267799113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606267832890	Marionette	INFO	Stopped listening on port 52675
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
