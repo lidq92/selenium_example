@@ -129,7 +129,8 @@ browser.quit()
 # 119	Communications in Mathematical Research https://www.global-sci.org/cmr ISSN=1674-5647
 # 147	Journal of Mathematical Research with Applications http://jmre.ijournals.cn/en/ch/first_menu.aspx?parent_id=20120223164315001 ISSN=2095-2651
 # 170	PUBLICATIONES MATHEMATICAE-DEBRECEN https://publi.math.unideb.hu/ ISSN=0033-3883, E-ISSN 2064-2849
-#
+# 308	RIMS Kôkyûroku Bessatsu https://www.kurims.kyoto-u.ac.jp/~kenkyubu/bessatsu.html ISSN=1881-6193
+# 
 ## applied math
 # 30    ESAIM: Mathematical Modelling and Numerical Analysis (ESAIM: M2AN) https://www.esaim-m2an.org/ ISSN=2822-7840 E-ISSN=2804-7214
 # 62    Annals of Applied Mathematics https://www.global-sci.com/aam.html ISSN=2096-0174
@@ -141,7 +142,6 @@ browser.quit()
 # 101	应用数学学报（中文版）https://applmath.cjoe.ac.cn/jweb_yysxxb/CN/home ISSN=0254-3079
 # 152	应用泛函分析学报 http://yyfhfxxb.llyj.net/ ISSN=1009-1327
 # 153	应用数学和力学（中文版）http://applmathmech.cqjtu.edu.cn/ ISSN=1000-0887
-
 # 103	Advances in Applied Clifford Algebras https://link.springer.com/journal/6 ISSN=0188-7009 E-ISSN=1661-4909
 # 106	ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE https://link.springer.com/journal/10472 
 # 110	Applied and Computational Mathematics http://acmij.az/view.php?lang=en&menu=0
